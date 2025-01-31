@@ -1,6 +1,6 @@
-## FlashSwap On Uniswap Like Protocols 
+## Demonstration FlashSwap On Uniswap
 
-An example of quering token prices and swaping token on uniswap like protocols.
+An example of quering token prices and swaping token on uniswap. 
 
 ### 1. Install Dependencies
 ```
